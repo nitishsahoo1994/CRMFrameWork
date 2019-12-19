@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="bowser" value="chrome"/>
+  <test name="Test_runner_Firefox">
+    <parameter name="bowser" value="firefox"/>
+    <classes>
+      <class name="com.comcast.cOpportunity.CreateOpportunitiesTest"/>
+    </classes>
+  </test> <!-- Test_runner_Firefox -->
+  <test name="Test_runner_chorome">
+    <parameter name="bowser" value="chrome"/>
+    <classes>
+      <class name="com.comcast.cOpportunity.CreateOpportunitiesTest"/>
+    </classes>
+  </test> <!-- Test_runner_chorome -->
+  <test name="Test_runner_chorome(failed)" parallel="tests">
+    <parameter name="bowser" value="chrome"/>
+    <classes>
+      <class name="com.comcast.cOpportunity.CreateOpportunitiesTest">
+        <methods>
+          <include name="createOpportunitiesWithMandatory"/>
+        </methods>
+      </class> <!-- com.comcast.cOpportunity.CreateOpportunitiesTest -->
+    </classes>
+  </test> <!-- Test_runner_chorome(failed) -->
+  <test name="Test_runner_Firefox(failed)" parallel="tests">
+    <parameter name="bowser" value="firefox"/>
+    <classes>
+      <class name="com.comcast.cOpportunity.CreateOpportunitiesTest">
+        <methods>
+          <include name="createOpportunitiesWithMandatory"/>
+        </methods>
+      </class> <!-- com.comcast.cOpportunity.CreateOpportunitiesTest -->
+    </classes>
+  </test> <!-- Test_runner_Firefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

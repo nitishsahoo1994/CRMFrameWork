@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3867" started-at="2019-03-11T15:46:31Z" finished-at="2019-03-11T15:46:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3867" started-at="2019-03-11T15:46:31Z" finished-at="2019-03-11T15:46:35Z">
+      <class name="parameteriztion.Amazon">
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="34" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:34Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="2" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="2" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="3" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="7" started-at="2019-03-11T21:16:34Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR09]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="5" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="2" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="2" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="2" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="5" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="2" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:parameteriztion.Amazon@2eee9593]" name="addToCart" duration-ms="1" started-at="2019-03-11T21:16:35Z" data-provider="setdataToCart" finished-at="2019-03-11T21:16:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphoneXR17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- parameteriztion.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
